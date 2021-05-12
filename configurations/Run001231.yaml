@@ -22,8 +22,8 @@ scintillator:
   tdc_ch: 128
 time_offset_scint: 100.0
 time_offset_sl:
-  1: 13.0
-  0: 13.1
+  0: 13.0
+  1: 13.1
   2: 12.7
   3: 12.0
 
