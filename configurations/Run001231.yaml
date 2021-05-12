@@ -29,15 +29,15 @@ time_offset_sl:
 
 # shift of the SL (x, y, z)
 sl_shift:
-  1: {x: 0, y: 0, z: 364.75}
-  0: {x: 0, y: 0, z: 529.75} 
+  0: {x: 0, y: 0, z: 364.75}
+  1: {x: 0, y: 0, z: 529.75} 
   2: {x: 0, y: 0, z: 695.75}
   3: {x: 0, y: 0, z: 790.25}
 
 # view of each SL
 sl_view:
-  1: 'phi'
   0: 'phi'
+  1: 'phi'
   2: 'phi'
   3: 'theta'
 
